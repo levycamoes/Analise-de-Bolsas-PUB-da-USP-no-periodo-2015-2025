@@ -45,6 +45,24 @@ Edital 2023-2024: O Programa Unificado de Bolsas de Estudos para Apoio à Forma�
 (PUB-USP) é uma ação integrada das Pró-Reitorias de Cultura e Extensão, Graduação e Pesquisa e Inovação
 da Universidade de São Paulo
 
+Outra distinção muito importante é no critério de seleção dos estudantes:
+
+Edital 2021-2022: IV. PROCESSO DE INSCRIÇÃO DOS ESTUDANTES
+A inscrição do estudante no Programa Unificado de Bolsas deve seguir as seguintes etapas:
+4.1 – Obter a condição inscrito OU qualificado no sistema SASe (o módulo de avaliação
+socioeconômica do PAPFE) -31/05/2021 a 30/06/2021.
+
+Edital 2022-2023: IV. PROCESSO DE INSCRIÇÃO DO(A)S ESTUDANTES
+A inscrição do(a) estudante no(s) projeto(s) deve seguir as seguintes etapas:
+1 – Obter a condição inscrito(a) ou qualificado(a) no sistema SASe (o módulo de avaliação
+socioeconômica do PAPFE) - 31/05/2022 a 30/06/2022.
+
+Edital 2023-2024: IV. INSCRIÇÃO DO(A)S ESTUDANTES
+O(A) estudante poderá se inscrever em até 3 (três) projetos do PUB-USP pelo do sistema JúpiterWeb
+(https://uspdigital.usp.br/jupiterweb) no período de 01/08/2023 a 15/08/2023.
+
+Ou seja, antes para concorrer a uma bolsa PUB, o estudante necessariamente deveria estar cadastrado no PAPFE, dando preferência para alunos em situação de vulnerabilidade socioeconômica. A partir da mudança no escopo, esse requisito deixou de existir, limitando (ainda mais) o pertencimento dos estudantes marginalizados na USP. O Programa Unificado de Bolsas ainda pode ser considerado um programa que visa a inclusão e pertencimento de estudantes pobres?
+
 Para além disso, no edital de 2023 foram disponibilizadas 5024 bolsas, uma redução de 1892 bolsas em relação ao ano anterior. Houve ampliamento do programa após a "modificação e novo escopo" do PUB?
 
 Outro fato curioso é: O número de projetos contemplados realmente aumentou, mas vemos que a razão de bolsas por projetos diminuiu drasticamente. No edital 2025-2026, a razão é 1,014. Isto é, cada projeto tem, em média, 1,014 bolsista. A USP mascara os dados, utiliza do aumento do número de projetos para justificar uma ampliação no programa, o que não é verdade. Os projetos que fazem parte do programa são, muitas vezes, projetos grandes que necessitam de grande participação estudantil, alguns deles precisando de dezenas de bolsistas atuando para entrega de um projeto que faça a diferença e entregue o nome da Universidade. O que vemos com a diminuição do número de bolsas por projeto é a PRECARIZAÇÃO dos bolsistas PUB. SIM, precarização do trabalho de quem recebe meio salário mínimo.
