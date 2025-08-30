@@ -61,7 +61,9 @@ Ajustes mínimos, subinflacionários. Não serve para absolutamente nada.
 
 LKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
 
+# Para o futuro:
 
+Devo utilizar alguns códigos meus antigos para fazer uma análise qualitativa dos projetos submetidos pelos orientadores. Isso é importante para verificar se o número de bolsas que o orientador solicitou é condizente com o número de bolsas concedido. Os dados quantitativos sugerem que não, mas para ter certeza é necessário realizar uma análise mais minunciosa.
 
 
 
