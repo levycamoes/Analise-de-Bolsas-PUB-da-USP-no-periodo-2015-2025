@@ -1,6 +1,6 @@
 # Analise de Bolsas PUB da USP no periodo 2015-2025
 
-No dia 28/08/2025 foi publicado o seguinte artigo no Jornal da USP: Esclarecimento das Pró-Reitorias sobre o Programa Unificado de Bolsas (PUB). Neste artigo, a USP descreve brevemente a história dos programas de bolsas da USP e apresenta tabelas de distribuições de vagas de bolsas por vertente para cada ano (a partir de 2022, com a criação da PRIP, PRCEU, PRPI).
+No dia 28/08/2025 foi publicado o seguinte artigo no Jornal da USP: Esclarecimento das Pró-Reitorias sobre o Programa Unificado de Bolsas (PUB). Neste artigo, a USP descreve brevemente a história dos programas de bolsas da USP e apresenta tabelas de distribuições de projetos de bolsas por vertente para cada ano (a partir de 2022, com a criação da PRIP, PRCEU, PRPI).
 
 "A partir desses números, fica evidente que não houve corte de bolsas, ao contrário, a cada ano, a quantidade de projetos contemplados aumentou."
 
@@ -47,7 +47,7 @@ da Universidade de São Paulo
 
 Para além disso, no edital de 2023 foram disponibilizadas 5024 bolsas, uma redução de 1892 bolsas em relação ao ano anterior. Houve ampliamento do programa após a "modificação e novo escopo" do PUB?
 
-Outro fato curioso é: O número de projetos contemplados realmente aumentou, mas vemos que a razão de bolsas para projeto diminuiu drasticamente. No edital 2025-2026, a razão é 1,014. Isto é, cada projeto tem, em média, 1,014 bolsista. A USP mascara os dados, utiliza do aumento do número de projetos para justificar uma ampliação no programa, o que não é verdade. Os projetos que fazem parte do programa são, muitas vezes, projetos grandes que necessitam de grande participação estudantil, alguns deles precisando de dezenas de bolsistas atuando para entrega de um projeto que faça a diferença e entregue o nome da Universidade. O que vemos com a diminuição do número de bolsas por projeto é a PRECARIZAÇÃO dos bolsistas PUB. SIM, precarização do trabalho de quem recebe meio salário mínimo.
+Outro fato curioso é: O número de projetos contemplados realmente aumentou, mas vemos que a razão de bolsas por projetos diminuiu drasticamente. No edital 2025-2026, a razão é 1,014. Isto é, cada projeto tem, em média, 1,014 bolsista. A USP mascara os dados, utiliza do aumento do número de projetos para justificar uma ampliação no programa, o que não é verdade. Os projetos que fazem parte do programa são, muitas vezes, projetos grandes que necessitam de grande participação estudantil, alguns deles precisando de dezenas de bolsistas atuando para entrega de um projeto que faça a diferença e entregue o nome da Universidade. O que vemos com a diminuição do número de bolsas por projeto é a PRECARIZAÇÃO dos bolsistas PUB. SIM, precarização do trabalho de quem recebe meio salário mínimo.
 
 "A partir desses números, fica evidente que não houve corte de bolsas, ao contrário, a cada ano, a quantidade de projetos contemplados aumentou."
 
