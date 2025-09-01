@@ -20,7 +20,7 @@ De fato, a quantidade de projetos contemplados aumentou:
 | 2024  | 4000  | 4965  | 1,241 | -59
 | 2025  | 5021  | 5093  | 1,014 | +128
 
-Em 2022, foram disponibilizadas 6916 Bolsas PUB, um aumento de 4225 bolsas em relação ao ano de 2015.
+Em 2022, foram disponibilizadas 6916 Bolsas PUB, um aumento de 4225 bolsas em relação ao ano de 2015. Já em 2023, foram disponibilizadas 5024 bolsas, uma redução de 1892 bolsas em relação ao ano anterior.
 
 RESOLUÇÃO Nº 8231, DE 05 DE MAIO DE 2022:
 TÍTULO II – DA ORGANIZAÇÃO DAS POLÍTICAS DE INCLUSÃO E PERTENCIMENTO
