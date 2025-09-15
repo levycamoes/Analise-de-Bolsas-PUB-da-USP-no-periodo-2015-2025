@@ -4,7 +4,7 @@ No dia 28/08/2025 foi publicado o seguinte artigo no Jornal da USP: Esclarecimen
 
 # scrapper.py
 Script utilizado para acessar o Jupiterweb e obter os dados dos últimos 11 anos do Programa.
-Os dados minerados foram armazenados em uma planilha .csv para cada edital, resultando em 11 planilhas contendo todas as informações que o estudante tem acesso quando faz a busca no Jupiterweb.
+Os dados minerados foram armazenados em uma planilha .csv para cada edital, resultando em 11 planilhas contendo todas as informações que o estudante tem acesso quando faz a busca no Jupiterweb. Todas essas planilhas estão disponíveis para consulta no diretório "data".
 
 
 
