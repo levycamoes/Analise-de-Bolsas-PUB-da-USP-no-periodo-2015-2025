@@ -1,59 +1,10 @@
 # Analise de Bolsas PUB da USP no periodo 2015-2025
 
-No dia 28/08/2025 foi publicado o seguinte artigo no Jornal da USP: Esclarecimento das Pró-Reitorias sobre o Programa Unificado de Bolsas (PUB). Neste artigo, a USP descreve brevemente a história dos programas de bolsas da USP e apresenta tabelas de distribuições de projetos de bolsas por vertente para cada ano (a partir de 2022, com a criação da PRIP, PRCEU, PRPI).
+No dia 28/08/2025 foi publicado o seguinte artigo no Jornal da USP: Esclarecimento das Pró-Reitorias sobre o Programa Unificado de Bolsas (PUB). Neste artigo, a USP descreve brevemente a história dos programas de bolsas da USP e apresenta tabelas de distribuições de projetos de bolsas por vertente para cada ano (a partir de 2022, com a criação da PRIP, PRCEU, PRPI). O artigo em questão motivou um estudante independente a minerar, analisar e disponibilizar as métricas dos últimos 11 anos do Programa Unificado de Bolsas.
 
-"A partir desses números, fica evidente que não houve corte de bolsas, ao contrário, a cada ano, a quantidade de projetos contemplados aumentou."
+# scrapper.py
+Script utilizado para acessar o Jupiterweb e obter os dados dos últimos 11 anos do Programa.
+Os dados minerados foram armazenados em uma planilha .csv para cada edital, resultando em 11 planilhas contendo todas as informações que o estudante tem acesso quando faz a busca no Jupiterweb.
 
-De fato, a quantidade de projetos contemplados aumentou:
-
-| Ano  | Número de Projetos | Total de Bolsas | Razão Bolsa / Projeto | Diferença de Bolsas |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2015  | 1298  | 2691  | 2,073 | -
-| 2016  | 2493  | 4236  | 1,699 | +1545
-| 2017  | 2498  | 4407  | 1,764 | +171
-| 2018  | 2892  | 4854  | 1,678 | +447
-| 2019  | 2611  | 4131  | 1,582 | -723
-| 2020  | 2747  | 4116  | 1,498 | -15
-| 2021  | 3286  | 5394  | 1,642 | +1278
-| 2022  | 3562  | 6916  | 1,942 | +1522
-| 2023  | 3719  | 5024  | 1,351 | -1892
-| 2024  | 4000  | 4965  | 1,241 | -59
-| 2025  | 5021  | 5093  | 1,014 | +128
-
-Em 2022, foram disponibilizadas 6916 Bolsas PUB, um aumento de 4225 bolsas em relação ao ano de 2015. Já em 2023, foram disponibilizadas 5024 bolsas, uma redução de 1892 bolsas em relação ao ano anterior.
-
-Me perguntei, qual é a diferença entre os editais até 2022 e a partir de 2022?
-
-Edital 2021-2022: O Programa Unificado de Bolsas de Estudos para Apoio à Permanência e Formação de
-Estudantes de Graduação (PUB-USP) é uma ação da Universidade de São Paulo que integra a
-Política de Apoio à Permanência e Formação Estudantil.
-
-Edital 2022-2023: O Programa Unificado de Bolsas de Estudos para Apoio à Permanência e Formação de Estudantes
-de Graduação (PUB-USP) é uma ação da Universidade de São Paulo que integra a Política de Apoio à
-Permanência e Formação Estudantil
-
-Edital 2023-2024: O Programa Unificado de Bolsas de Estudos para Apoio à Formação de Estudantes de Graduação
-(PUB-USP) é uma ação integrada das Pró-Reitorias de Cultura e Extensão, Graduação e Pesquisa e Inovação
-da Universidade de São Paulo
-
-Outra distinção muito importante é no critério de seleção dos estudantes:
-
-Edital 2021-2022: IV. PROCESSO DE INSCRIÇÃO DOS ESTUDANTES
-A inscrição do estudante no Programa Unificado de Bolsas deve seguir as seguintes etapas:
-4.1 – Obter a condição inscrito OU qualificado no sistema SASe (o módulo de avaliação
-socioeconômica do PAPFE) -31/05/2021 a 30/06/2021.
-
-Edital 2022-2023: IV. PROCESSO DE INSCRIÇÃO DO(A)S ESTUDANTES
-A inscrição do(a) estudante no(s) projeto(s) deve seguir as seguintes etapas:
-1 – Obter a condição inscrito(a) ou qualificado(a) no sistema SASe (o módulo de avaliação
-socioeconômica do PAPFE) - 31/05/2022 a 30/06/2022.
-
-Edital 2023-2024: IV. INSCRIÇÃO DO(A)S ESTUDANTES
-O(A) estudante poderá se inscrever em até 3 (três) projetos do PUB-USP pelo do sistema JúpiterWeb
-(https://uspdigital.usp.br/jupiterweb) no período de 01/08/2023 a 15/08/2023.
-
-Ou seja, antes para concorrer a uma bolsa PUB, o estudante necessariamente deveria estar cadastrado no PAPFE, dando preferência para alunos em situação de vulnerabilidade socioeconômica. A partir da mudança no escopo, esse requisito deixou de existir, limitando (ainda mais) o pertencimento dos estudantes marginalizados na USP. O Programa Unificado de Bolsas ainda pode ser considerado um programa que visa a inclusão e pertencimento de estudantes pobres?
-
-Outro fato curioso é: O número de projetos contemplados realmente aumentou, mas vemos que a razão de bolsas por projetos diminuiu drasticamente. No edital 2025-2026, a razão é 1,014. Isto é, cada projeto tem, em média, 1,014 bolsista. A USP mascara os dados, utiliza do aumento do número de projetos para justificar uma ampliação no programa, o que não é verdade. Os projetos que fazem parte do programa são, muitas vezes, projetos grandes que necessitam de grande participação estudantil, alguns deles precisando de dezenas de bolsistas atuando para entrega de um projeto que faça a diferença e entregue o nome da Universidade. O que vemos com a diminuição do número de bolsas por projeto é a PRECARIZAÇÃO dos bolsistas PUB. SIM, precarização do trabalho de quem recebe meio salário mínimo.
 
 
